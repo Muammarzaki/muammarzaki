@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muammar Zaki</h1>
 <h3 align="center">Working in Backend Dev and also Android Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muammarzaki&label=Profile%20views&color=0e75b6&style=flat" alt="muammarzaki" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Android App Platform**
 
