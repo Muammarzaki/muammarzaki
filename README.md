@@ -1,63 +1,135 @@
-<h1 align="center">Hi 👋, I'm Muammar Zaki</h1>
-<h3 align="center">Working in Backend Dev and also Android Dev</h3>
+<div align="center">
 
-</br>
+# 💫 Hey there! I'm Muammar Zaki
 
-- 🌱 I’m currently learning **Spring Boot, Android App Platform**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E96FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+%26+Android+Developer+%F0%9F%9A%80;Building+scalable+solutions+%F0%9F%92%BB;" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [my repository](https://github.com/Muammarzaki?tab=repositories)
+</div>
 
-- 💬 Ask me about **Java/Kotlin, system Architecture**
+<div>
 
-- 📫 How to reach me **muammarzaki2004@gmail.com**
+```javascript
+class MuammarZaki {
+  constructor() {
+    this.name = "Muammar Zaki";
+    this.location = "🌍 Aceh, Indonesia";
+    this.role = "💻 Backend & Android Developer";
+    this.passion = ["🚀 Scalable Systems", "📱 Mobile Apps", "🏗️ Architecture"];
+    this.currentlyLearning = ["Spring Boot", "Android Platform"];
+    this.funFact = "I think I'm lazy, but my GitHub says otherwise 😄";
+    this.coffee = "☕ Essential fuel for coding";
+  }
+  
+  sayHi() {
+    console.log("Thanks for dropping by! Let's build something amazing together! ✨");
+  }
+}
 
-- ⚡ Fun fact **I think I lazy**
+const developer = new MuammarZaki();
+developer.sayHi();
+```
+</div>
 
-</br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I'm Up To
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muammar-zaki-b6387a2a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muammar-zaki-b6387a2a0" height="30" width="40" /></a>
-<a href="https://fb.com/muammar zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muammar zaki" height="30" width="40" /></a>
+<img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🔭 **Currently Building**: Scalable backend systems with Spring Boot
+- 📱 **Mobile Magic**: Creating awesome Android applications  
+- 🏗️ **Architecture Enthusiast**: Designing robust system architectures
+- 🌱 **Always Learning**: Spring Boot ecosystem and Android platform deep-dive
+- 💡 **Open to Collaborate**: Java/Kotlin projects and system design discussions
+- 🎯 **2024 Goal**: Master microservices architecture
+
+<br clear="both"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Arsenal
+
+<div align="center">
+
+### 🛠️ Backend & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,python" />
 </p>
 
-</br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="NestJS" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="50" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+### 📱 Mobile & Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,figma,vue,nuxt,tailwind" />
 </p>
 
-</br> 
+### 🗄️ Database & Messaging
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,kafka" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muammarzaki&show_icons=true&locale=en&layout=compact" alt="muammarzaki" /></p>
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,vim,tmux" />
+</p>
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=muammarzaki&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Muammar Zaki github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammarzaki&layout=compact&hide_border=true&title_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muammarzaki&theme=dark&hide_border=true&stroke=0000&background=0D1117&border=0000&currStreakLabel=2E96FF" alt="Muammar Zaki" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muammarzaki&bg_color=0d1117&color=2e96ff&line=2e96ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed83ee.png" alt="Handshake" width="25" /> Let's Connect & Collaborate!
+
+<div align="center">
+
+**💬 Ask me about:** Java, Kotlin, Spring Boot, Android Development, System Architecture
+
+**🎯 Always excited to discuss:** Clean Code, Design Patterns, Microservices
+
+<p>
+<a href="mailto:muammarzaki2004@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&labelColor=101010" alt="Email">
+</a>
+</p>
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Featured Projects
+
+<div align="center">
+
+🚀 **Explore my digital playground**: Check out my [repositories](https://github.com/Muammarzaki?tab=repositories) for exciting projects in backend development and Android apps!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muammarzaki&repo=your-repo-name&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E96FF&text_color=c9d1d9)](https://github.com/muammarzaki/your-repo-name)
+
+*More awesome projects coming soon...* ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> *"Building scalable solutions, one commit at a time"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+![Profile Views](https://komarev.com/ghpvc/?username=muammarzaki&color=2E96FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+**⭐ If you find my work interesting, feel free to star my repositories and let's connect! ⭐**
+
+</div>
