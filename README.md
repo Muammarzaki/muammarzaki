@@ -63,7 +63,7 @@ developer.sayHi();
 
 ### ☁️ DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,vim,tmux" />
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,linux,vim" />
 </p>
 
 </div>
