@@ -12,12 +12,11 @@
 class MuammarZaki {
   constructor() {
     this.name = "Muammar Zaki";
-    this.location = "🌍 Aceh, Indonesia";
-    this.role = "💻 Backend & Android Developer";
+    this.location = "Aceh, Indonesia";
+    this.role = "Backend & Android Developer";
     this.passion = ["🚀 Scalable Systems", "📱 Mobile Apps", "🏗️ Architecture"];
-    this.currentlyLearning = ["Spring Boot", "Android Platform"];
-    this.funFact = "I think I'm lazy, but my GitHub says otherwise 😄";
-    this.coffee = "☕ Essential fuel for coding";
+    this.funFact = "I think I'm lazy, but my GitHub says otherwise";
+    this.coffee = "Nah, I am Tea fans";
   }
   
   sayHi() {
