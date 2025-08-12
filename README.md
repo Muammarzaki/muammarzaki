@@ -58,7 +58,7 @@ developer.sayHi();
 
 ### 🗄️ Database & Messaging
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,kafka" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,kafka,rabbitmq" />
 </p>
 
 ### ☁️ DevOps & Tools
