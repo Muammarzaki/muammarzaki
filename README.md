@@ -92,7 +92,7 @@ developer.sayHi();
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed83ee.png" alt="Handshake" width="25" /> Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -106,23 +106,6 @@ developer.sayHi();
 </a>
 </p>
 
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Featured Projects
-
-<div align="center">
-
-🚀 **Explore my digital playground**: Check out my [repositories](https://github.com/Muammarzaki?tab=repositories) for exciting projects in backend development and Android apps!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muammarzaki&repo=your-repo-name&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E96FF&text_color=c9d1d9)](https://github.com/muammarzaki/your-repo-name)
-
-*More awesome projects coming soon...* ⚡
-
-</div>
-
----
-
-<div align="center">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> *"Building scalable solutions, one commit at a time"*
 
