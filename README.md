@@ -72,7 +72,7 @@ developer.sayHi();
 
 <div align="center">
   
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muammarzaki&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Muammar Zaki github stats" /> 
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muammarzaki&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Muammar Zaki github stats" /> 
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muammarzaki&layout=compact&hide_border=true&title_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
