@@ -72,23 +72,18 @@ developer.sayHi();
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=muammarzaki&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Muammar Zaki github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammarzaki&layout=compact&hide_border=true&title_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" />
-
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muammarzaki&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Muammar Zaki github stats" /> 
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muammarzaki&layout=compact&hide_border=true&title_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muammarzaki&theme=dark&hide_border=true&stroke=0000&background=0D1117&border=0000&currStreakLabel=2E96FF" alt="Muammar Zaki" />
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=muammarzaki&theme=dark&hide_border=true&background=0D1117&ring=2E96FF&fire=2E96FF&currStreakLabel=2E96FF" alt="Muammar Zaki" />
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muammarzaki&bg_color=0d1117&color=2e96ff&line=2e96ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
 </div>
-
 
 
 ## 🤝 Let's Connect & Collaborate!
