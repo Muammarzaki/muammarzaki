@@ -39,6 +39,8 @@ developer.sayHi();
 - 🌱 **Always Learning**: Spring Boot ecosystem and Android platform deep-dive
 - 💡 **Open to Collaborate**: Java/Kotlin projects and system design discussions
 - 🎯 **2024 Goal**: Master microservices architecture
+- 🎯 **2025 Goal**: Master Devops
+- 🎯 **2026 Goal**: Master Web 4.0
 
 <br clear="both"/>
 
@@ -48,7 +50,7 @@ developer.sayHi();
 
 ### 🛠️ Backend & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,python" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,nestjs,python,golang" />
 </p>
 
 ### 📱 Mobile & Frontend  
@@ -58,7 +60,7 @@ developer.sayHi();
 
 ### 🗄️ Database & Messaging
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,kafka,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,kafka,rabbitmq,redis" />
 </p>
 
 ### ☁️ DevOps & Tools
